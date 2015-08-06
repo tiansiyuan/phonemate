@@ -1,0 +1,1 @@
+boys = new Meteor.Collection('boys');
