@@ -4,6 +4,13 @@
 # 'meteor add' and 'meteor remove' will edit this file for you,
 # but you can also edit it by hand.
 
-meteor-platform
+# meteor-platform
 insecure
-bootstrap
+standard-app-packages
+twbs:bootstrap
+iron:router@1.0.0-rc.1
+underscore
+sacha:spin
+accounts-password
+ian:accounts-ui-bootstrap-3
+audit-argument-checks

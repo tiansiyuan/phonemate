@@ -1,1 +1,1 @@
-Boys = new Meteor.Collection('boys');
+Boys = new Mongo.Collection('boys');
